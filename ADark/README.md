@@ -6,6 +6,7 @@
 <p aligh="center">
 A dark theme prefered by your eyes.
 </p>
+
 ![demo](https://github.com/agarwalamogh/Adark_vscode_theme/blob/master/ADark/images/demo.png)
 ![demo](https://github.com/agarwalamogh/Adark_vscode_theme/blob/master/ADark/images/demo_2.png)
 
