@@ -1,0 +1,26 @@
+{
+    "name": "adark_vscode",
+    "displayName": "ADark",
+    "description": "A dark theme prefered by your eyes.",
+    "version": "1.0.0",
+    "publisher": "Amogh Agarwal",
+    "author": {
+        "name": "Amogh-Agarwal",
+        "url": "agr.amogh@gmail.com"
+    },
+        "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ADark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ADark-color-theme.json"
+            }
+        ]
+    }
+}
