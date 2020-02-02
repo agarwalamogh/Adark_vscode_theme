@@ -1,12 +1,12 @@
 {
-    "name": "adark_vscode",
+    "name": "adark",
     "displayName": "ADark",
     "description": "A dark theme prefered by your eyes.",
     "version": "1.0.0",
-    "publisher": "Amogh Agarwal",
+    "publisher": "AmoghAgarwal",
     "icon": "images/logo1.png",
     "author": {
-        "name": "Amogh-Agarwal",
+        "name": "Amogh Agarwal",
         "email": "agr.amogh@gmail.com"
     },
     "repository": {
