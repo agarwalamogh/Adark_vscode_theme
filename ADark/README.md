@@ -1,6 +1,15 @@
-# README
-## This is the README for your extension "ADark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p aligh="center">
+<img alt="Adark_Logo" src="https://github.com/agarwalamogh/Adark_vscode_theme/blob/master/ADark/images/logo1.png" width="100"/>
+</p>
+<h1 aligh="center">
+</h1>
+<p aligh="center">
+A dark theme prefered by your eyes.
+</p>
+![demo](https://github.com/agarwalamogh/Adark_vscode_theme/blob/master/ADark/images/demo.png)
+![demo](https://github.com/agarwalamogh/Adark_vscode_theme/blob/master/ADark/images/demo_2.png)
+
+  Here are some useful editor keyboard shortcuts:
 
 * Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
 * Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
