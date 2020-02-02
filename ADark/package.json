@@ -4,15 +4,37 @@
     "description": "A dark theme prefered by your eyes.",
     "version": "1.0.0",
     "publisher": "Amogh Agarwal",
+    "icon": "images/logo1.png",
     "author": {
         "name": "Amogh-Agarwal",
-        "url": "agr.amogh@gmail.com"
+        "email": "agr.amogh@gmail.com"
     },
-        "engines": {
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/agarwalamogh/Adark_vscode_theme/tree/master/ADark"
+    },
+
+    "bugs": {
+        "url": "https://github.com/agarwalamogh/Adark_vscode_theme/tree/master/ADark",
+        "email": "agr.amogh@gmail.com"
+    },
+    "homepage": "https://github.com/agarwalamogh/Adark_vscode_theme/blob/master/ADark/README.md",
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "#131722"
+    },    
+    
+    "engines": {
         "vscode": "^1.41.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "color-theme",
+        "Adark"
     ],
     "contributes": {
         "themes": [
